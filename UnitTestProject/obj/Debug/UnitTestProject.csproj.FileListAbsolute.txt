@@ -1,0 +1,17 @@
+C:\Users\HUHU_LAPTOP\Desktop\ConsoleApp\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\HUHU_LAPTOP\Desktop\ConsoleApp\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\HUHU_LAPTOP\Desktop\ConsoleApp\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\HUHU_LAPTOP\Desktop\ConsoleApp\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\HUHU_LAPTOP\Desktop\ConsoleApp\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\HUHU_LAPTOP\Desktop\ConsoleApp\UnitTestProject\bin\Debug\ConsoleApp1.exe
+C:\Users\HUHU_LAPTOP\Desktop\ConsoleApp\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\HUHU_LAPTOP\Desktop\ConsoleApp\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\HUHU_LAPTOP\Desktop\ConsoleApp\UnitTestProject\bin\Debug\ConsoleApp1.pdb
+C:\Users\HUHU_LAPTOP\Desktop\ConsoleApp\UnitTestProject\bin\Debug\ConsoleApp1.exe.config
+C:\Users\HUHU_LAPTOP\Desktop\ConsoleApp\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\HUHU_LAPTOP\Desktop\ConsoleApp\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\HUHU_LAPTOP\Desktop\ConsoleApp\UnitTestProject\obj\Debug\UnitTestProject.csprojAssemblyReference.cache
+C:\Users\HUHU_LAPTOP\Desktop\ConsoleApp\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\HUHU_LAPTOP\Desktop\ConsoleApp\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+C:\Users\HUHU_LAPTOP\Desktop\ConsoleApp\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\HUHU_LAPTOP\Desktop\ConsoleApp\UnitTestProject\obj\Debug\UnitTestProject.pdb
